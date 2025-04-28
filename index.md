@@ -10,8 +10,8 @@ In addition to my research, I serve as an editorial assistant for [Demography](h
 
 I hold an MA in Sociology (with a certificate in Demography and Ecology) from the University of Washington-Seattle (2023), and a BA in International Relations and Economics from Mount Holyoke College (2019).
 
-Publications: 
+**Publications**: 
 
 - Carll, E., **Rajouria, A.**, Wilson, D., Cunningham, S., Riskin, E., & Litzler, E. (2024). Engineering Counterspaces to Address Inequities in Preparation for Undergraduate Academics. Studies in Engineering Education, 5(2). 
 
-- Carll, E., **Rajouria, A.**, Schachtman, R., Canner, J. E., Miller, J. B., & Rodriguez, A. (2025, February). Pathways into Statistics and Data Science for Academically Talented Undergraduate Students with Low Incomes. In 2025 Collaborative Network for Engineering & Computing Diversity (CoNECD).
+- Carll, E., **Rajouria, A.**, Schachtman, R., Canner, J. E., Miller, J. B., & Rodriguez, A. (2025). Pathways into Statistics and Data Science for Academically Talented Undergraduate Students with Low Incomes. In 2025 Collaborative Network for Engineering & Computing Diversity (CoNECD).
