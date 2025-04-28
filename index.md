@@ -2,7 +2,7 @@
 layout: default
 ---
 
-####
+<br> <br>
 
 I am a doctoral student in Sociology at the University of Washington-Seattle, and an affiliate with the Max Planck Institute for Demographic Research in the Population, Health, and Data Science program. My research examines how communities in the Global South make migration decisions in response to environmental disasters.
 
