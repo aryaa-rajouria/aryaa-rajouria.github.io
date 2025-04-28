@@ -10,7 +10,7 @@ In addition to my research, I serve as an editorial assistant for [Demography](h
 
 I hold an MA in Sociology (with a certificate in Demography and Ecology) from the University of Washington-Seattle (2023), and a BA in International Relations and Economics from Mount Holyoke College (2019).
 
-<h2><u> Peer Reviewed Publications </u></h2>
+Publications: 
 
 - Carll, E., **Rajouria, A.**, Wilson, D., Cunningham, S., Riskin, E., & Litzler, E. (2024). Engineering Counterspaces to Address Inequities in Preparation for Undergraduate Academics. Studies in Engineering Education, 5(2). 
 
