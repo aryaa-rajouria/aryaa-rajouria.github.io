@@ -1,6 +1,6 @@
 title: 'Aryaa Rajouria'
 description: "Personal website"
-logo: 'https://github.com/aryaa-rajouria/aryaarajouria.github.io/blob/main/img/Rajouria_Aryaa_20231020-600x600.jpg'
+logo: '/img/headshot.jpg'
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
