@@ -14,11 +14,11 @@ I embrace **methodological plurality**, integrating qualitative, quantitative, a
 
 ## Publications & Projects
 
-- **[Pathways into Statistics and Data Science for Academically Talented Undergraduate Students with Low Incomes](https://peer.asee.org/pathways-into-statistics-and-data-science-for-academically-talented-undergraduate-students-with-low-incomes)**  
+- Carll, E., **Rajouria, A.**, Wilson, D., Cunningham, S., Riskin, E., & Litzler, E. (2024). Engineering Counterspaces to Address Inequities in Preparation for Undergraduate Academics. Studies in Engineering Education, 5(2). 
 
-- **[SEE Journal Article](https://seejournal.org/articles/10.21061/see.105?_rsc=ltuy6)**  
+- Carll, E., Rajouria, A., Schachtman, R., Canner, J. E., Miller, J. B., & Rodriguez, A. (2025, February). **Pathways into Statistics and Data Science for Academically Talented Undergraduate Students with Low Incomes**. In 2025 Collaborative Network for Engineering & Computing Diversity (CoNECD).
 
-## Editorial Roles
+## Editorial and Publishing Roles
 
 - **Editorial Assistant**, *Demography Journal*  
   I currently serve as an editorial assistant for [Demography](https://www.populationassociation.org/demography/editorial-team/editorial-assistant), a leading journal in the field of population studies.
