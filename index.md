@@ -14,4 +14,4 @@ Publications:
 
 - Carll, E., **Rajouria, A.**, Wilson, D., Cunningham, S., Riskin, E., & Litzler, E. (2024). Engineering Counterspaces to Address Inequities in Preparation for Undergraduate Academics. Studies in Engineering Education, 5(2). 
 
-- Carll, E., Rajouria, A., Schachtman, R., Canner, J. E., Miller, J. B., & Rodriguez, A. (2025, February). **Pathways into Statistics and Data Science for Academically Talented Undergraduate Students with Low Incomes**. In 2025 Collaborative Network for Engineering & Computing Diversity (CoNECD).
+- Carll, E., **Rajouria, A.**, Schachtman, R., Canner, J. E., Miller, J. B., & Rodriguez, A. (2025, February). Pathways into Statistics and Data Science for Academically Talented Undergraduate Students with Low Incomes. In 2025 Collaborative Network for Engineering & Computing Diversity (CoNECD).
